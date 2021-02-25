@@ -1,2 +1,2 @@
-# sugar
+# Sugar
 Sugar = Sweet
